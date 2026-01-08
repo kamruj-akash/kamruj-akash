@@ -43,7 +43,7 @@
 
 ###
 
-<p align="left">I'm from Dhaka, Bangladesh.<br><br>- 🔭 I’m working as Fontend-Developer <br>- 📚 I'm currently learning MERN Stack<br>- ⚡ In my free time I plan for Travel</p>
+<p align="left">I'm from Dhaka, Bangladesh.<br><br>- 🔭 I’m working as MERN Stack Developer <br>- 📚 I'm currently learning Next.Js<br>- ⚡ In my free time I plan for Travel</p>
 
 ###
 
